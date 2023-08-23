@@ -13,3 +13,8 @@ The objective of this project is to get started with Expo and become familiar wi
 8. Finally, go through the process of configuring a status bar, a splash screen, and an icon to complete the app.
 
 These topics will provide a good foundation for learning the fundamentals of building a mobile app.
+
+
+In the project directory, run the following command to start a development server from the terminal:
+
+npx expo start
